@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonHledat</name>
+   <tag></tag>
+   <elementGuidId>36f97f58-d51c-413d-8c15-21b57597a7e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btnSearch' and (text() = '
+Hledat
+' or . = '
+Hledat
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnSearch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btnSearch']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>63d5b7b6-47f7-48b1-a213-e851039f7d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnSearch</value>
+      <webElementGuid>70aa6e03-87bc-460b-8abe-9156bea2b4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Hledat
+</value>
+      <webElementGuid>0ff9c1ec-dabb-4ad0-9889-9bb0e0d6d9a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnSearch&quot;)</value>
+      <webElementGuid>9651efe5-1608-4e2f-96f3-d25f850969e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='btnSearch']</value>
+      <webElementGuid>d922d962-e8ea-40c5-9b0f-5e314807d5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div[2]</value>
+      <webElementGuid>a96e0f4f-fa5d-4cbb-8abb-ed4453d6642c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alza'])[1]/following::div[10]</value>
+      <webElementGuid>dcd020d1-eaba-40fa-a36c-abad60475e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gamepad'])[1]/preceding::div[1]</value>
+      <webElementGuid>137a10b7-cefb-49d9-824f-bf0650e6b955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hledat']/parent::*</value>
+      <webElementGuid>c11e9bfb-84a9-4aa1-8328-89493d3d9423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]</value>
+      <webElementGuid>3ca464e7-448c-4e4b-8216-7d6c2a619e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'btnSearch' and (text() = '
+Hledat
+' or . = '
+Hledat
+')]</value>
+      <webElementGuid>f53a7710-9732-4ade-92f5-a4f9118eb826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alza While Loop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3783c954-76bd-436c-8f1c-f30da10e1ef2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1fcd54fc-a7e9-4f93-baa0-405bae0784ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>300000</defaultValue>
+      <description></description>
+      <id>1fcd54fc-a7e9-4f93-baa0-405bae0784ed</id>
+      <masked>false</masked>
+      <name>CilovaCena</name>
+   </variable>
+</TestCaseEntity>
